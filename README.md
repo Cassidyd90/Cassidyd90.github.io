@@ -3,6 +3,7 @@
 ## Overview
 ***
 The objective is to create a website to showcase a Data Analyst portfolio.
+* Access website here -> [Portfolio Website](https://cassidyd90.github.io/ "Cassidyd90")
 ***
 ## Used
 * Visual Studio Code
